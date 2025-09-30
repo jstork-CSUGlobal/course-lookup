@@ -1,0 +1,12 @@
+# Python cruft
+__pycache__/
+*.pyc
+
+# IDE folders (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+env/
+*.env
